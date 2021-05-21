@@ -52,3 +52,9 @@ body {
         width: 50%;
     }
 }
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .content,
+    .sideboard{
+        width: 50%;
+    }
+    }
